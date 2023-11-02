@@ -156,6 +156,270 @@
 				"svcSetResourceLimitLimitValue":	"0x7e",
 				"svcCallSecureMonitor":	"0x7f"
 			}
+        }, {
+			"type": "map",
+			"value": {
+				"address": "0x40000000",
+				"size": "0x40000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x50000000",
+				"size": "0x34000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x50060000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54040000",
+				"size": "0x40000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54100000",
+				"size": "0x40000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54200000",
+				"size": "0x80000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54300000",
+				"size": "0xC0000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54480000",
+				"size": "0xC0000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x54580000",
+				"size": "0x40000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x57000000",
+				"size": "0x2000000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x60001000",
+				"size": "0x9000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x6000C000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x60020000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70000000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70003000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70006000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7000A000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7000C000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70012000",
+				"size": "0x6000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7001B000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7001E000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+		"type": "map",
+			"value": {
+				"address": "0x70090000",
+				"size": "0x8000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7009F000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x700B0000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x700D0000",
+				"size": "0x8000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x700E2000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70110000",
+				"size": "0x1000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x702D0000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x702E2000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70412000",
+				"size": "0x2000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x70420000",
+				"size": "0x10000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7C010000",
+				"size": "0x40000",
+				"is_ro": false,
+				"is_io": true
+			}
+		}, {
+			"type": "map",
+			"value": {
+				"address": "0x7D000000",
+				"size": "0x8000",
+				"is_ro": false,
+				"is_io": true
+			}
 		}, {
 			"type":	"min_kernel_version",
 			"value":	"0x0030"
